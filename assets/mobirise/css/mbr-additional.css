@@ -1777,6 +1777,7 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #48899f);
 }
 .cid-qKrHFVRi4Q .image-block {
   margin: auto;
